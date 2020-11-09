@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import CanvasJSReact from '../../canvasjs.react';
-var CanvasJS = CanvasJSReact.CanvasJS;
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
 const MISSGNOIMG = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png"
@@ -45,7 +44,7 @@ const PokemonImg = styled.img`
 
 const completeZeros = id => id > 99 ? id : id > 9 ? "0" + id : "00" + id
 
-export default function (props) {
+export default function PokemonInfo (props) {
   const options = {
     animationEnabled: true,
     theme: "light2",

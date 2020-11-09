@@ -16,7 +16,7 @@ const Grid = styled.ul`
   width: 100%;
 `
 
-export default function (props) {
+export default function PokemonGrid (props) {
   return <Main>
     <Grid>
       {props.pokemon.map((pkmn, i) => <Pokemon key={i} selectPokemon={props.selectPokemon} {...pkmn} />)}
