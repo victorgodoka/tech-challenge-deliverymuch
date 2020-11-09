@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tech-challenge-deliverymuch/static/css/main.e963e736.chunk.css",
+    "main.js": "/tech-challenge-deliverymuch/static/js/main.1afbbb88.chunk.js",
+    "main.js.map": "/tech-challenge-deliverymuch/static/js/main.1afbbb88.chunk.js.map",
+    "runtime-main.js": "/tech-challenge-deliverymuch/static/js/runtime-main.917ee538.js",
+    "runtime-main.js.map": "/tech-challenge-deliverymuch/static/js/runtime-main.917ee538.js.map",
+    "static/js/2.0d393599.chunk.js": "/tech-challenge-deliverymuch/static/js/2.0d393599.chunk.js",
+    "static/js/2.0d393599.chunk.js.map": "/tech-challenge-deliverymuch/static/js/2.0d393599.chunk.js.map",
+    "index.html": "/tech-challenge-deliverymuch/index.html",
+    "static/css/main.e963e736.chunk.css.map": "/tech-challenge-deliverymuch/static/css/main.e963e736.chunk.css.map",
+    "static/js/2.0d393599.chunk.js.LICENSE.txt": "/tech-challenge-deliverymuch/static/js/2.0d393599.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.917ee538.js",
+    "static/js/2.0d393599.chunk.js",
+    "static/css/main.e963e736.chunk.css",
+    "static/js/main.1afbbb88.chunk.js"
+  ]
+}
